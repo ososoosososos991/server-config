@@ -1,0 +1,4 @@
+db_host=localhost
+db_port=5432
+api_token=CTF{deleted_but_not_gone}
+debug=false
